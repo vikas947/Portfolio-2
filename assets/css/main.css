@@ -671,7 +671,7 @@ body.loaded {
 	}
 }
 .tj-header-area {
-	padding: 40px 0 20px;
+	padding: 40px 0 40px;
 	position: relative;
 	z-index: 9;
 	background-color: var(--tj-black-2);
@@ -866,7 +866,7 @@ body.loaded {
 * ===============================
 */
 .hero-section {
-	padding: 200px 0 50px;
+	padding: 200px 0 200px;
 	background: var(--tj-theme-accent-1);
 	position: relative;
 	overflow: hidden;
@@ -1851,7 +1851,7 @@ body.loaded {
 .skills-widget .skill-item .icon-box {
 	max-width: 60px;
 	width: 100%;
-	margin: 0 auto 30px;
+	margin: 0 auto 0px;
 }
 
 .skills-widget .skill-item .icon-box img {
@@ -2787,7 +2787,7 @@ blockquote cite::before {
 .contact-section {
 	padding-top: 120px;
 	padding-bottom: 120px;
-	background: var(--tj-black-2);
+	background: var(--tj-theme-accent-1);
 	position: relative;
 }
 .contact-form-box {
@@ -2807,7 +2807,7 @@ blockquote cite::before {
 .form_group textarea {
 	display: block;
 	width: 100%;
-	background: var(--tj-black-2);
+	background: var(--tj-theme-accent-2)
 	border: 1px solid var(--tj-grey-4);
 	font-size: 16px;
 	line-height: 1;
@@ -2882,7 +2882,7 @@ blockquote cite::before {
 * ===============================
 */
 .tj-footer-area {
-	background: var(--tj-theme-accent-1);
+	background: var(--tj-black-2);
 	padding: 50px 0 20px;
 }
 .footer-logo-box {
