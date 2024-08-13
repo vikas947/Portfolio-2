@@ -1590,6 +1590,7 @@ body.loaded {
 }
 .popup_modal_content .portfolio_gallery {
 	margin-top: 50px;
+	margin-bottom: 50px;
 }
 .portfolio_gallery .gallery_item {
 	max-width: 930px;
